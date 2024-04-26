@@ -14,9 +14,13 @@ The primary objective of the project is to develop machine learning models capab
 # Methodology  
 
 Data Preprocessing: The dataset undergoes preprocessing steps such as cleaning, imputation of missing values, normalization, and feature engineering to extract relevant information for predictive modeling.
+
 Feature Selection: Techniques such as correlation analysis, feature importance, and domain knowledge are employed to select the most informative features for model training.
+
 Model Selection: Various machine learning algorithms such as decision trees, random forests, support vector machines, and neural networks are evaluated for their performance in predicting equipment failure.
+
 Model Training: The selected models are trained using the preprocessed dataset, and hyperparameters are tuned to optimize performance metrics such as accuracy, precision, recall, and F1-score.
+
 Model Evaluation: The trained models are evaluated using holdout validation or cross-validation techniques to assess their ability to accurately predict equipment failure within a specified time window.
 
 # Results 
